@@ -1,0 +1,61 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+
+  <!--引入top-->
+  <?php include('./top.php'); ?>
+
+<title>课程列表</title>
+</head>
+<body>
+<nav class="Hui-breadcrumb"><i class="icon-home"></i> 首页 <span class="c-gray en">&gt;</span> 图片库 <span class="c-gray en">&gt;</span> 课程列表 <a class="btn btn-success radius r mr-20" style="line-height:1.6em;margin-top:3px" href="javascript:location.replace(location.href);" title="刷新" ><i class="icon-refresh"></i></a></nav>
+
+  <div class="cl pd-5 bg-1 bk-gray mt-20"> <span class="l"><a href="javascript:;" onclick="if(!confirm('确定要批量删除吗？')){return false;}"  class="btn btn-danger radius"><i class="icon-trash"></i> 批量删除</a> <a class="btn btn-primary radius" onClick="picture_add('','','添加课程','./goods_add.php')" href="javascript:;"><i class="icon-plus"></i> 添加课程</a></span> <span class="r">共有数据：<strong>54</strong> 条</span> </div>
+
+  <table class="table table-border table-bordered table-bg table-hover table-sort">
+    <thead>
+      <tr class="text-c">
+        <th width="40"><input name="" type="checkbox" value=""></th>
+        <th width="40">ID</th>
+        <th width="150">课程名称</th>
+        <th>简介</th>
+        <th width="100">上课时间</th>
+        <th width="100">下课时间</th>
+        <th width="100">添加时间</th>
+        <th width="40">状态</th>
+        <th width="130">操作</th>
+      </tr>
+    </thead>
+    <tbody>
+    <?php foreach($goodslist as $k=>$v){ ?>
+      <tr class="text-c">
+        <td><input name="" type="checkbox" value=""></td>
+        <td><?php echo ++$k;?></td>
+        <td><?php echo $v['goods_name'] ;?></td>
+        <td class="text-l">课程简介</td>
+        <td><?php echo date('Y-m-d H:m:s',$v['class_start']) ;?></td>
+        <td><?php echo date('Y-m-d H:m:s',$v['class_end']) ;?></td>
+        <td><?php echo date('Y-m-d H:m:s',$v['add_time']) ;?></td>
+        <td class=""><span class="label label-success"><?php echo $v['is_sale']?'已上架':'已下架' ;?></span></td>
+        <td class="f-14 picture-manage">
+          <a style="text-decoration:none" onclick="if(!confirm('确定要上架吗？')){return false;}" href="javascript:;" title="上架"><i class="icon-circle-arrow-up"></i></a>
+          <a style="text-decoration:none" onclick="if(!confirm('确定要下架吗？')){return false;}" href="javascript:;" title="下架"><i class="icon-circle-arrow-down"></i></a>
+          <a style="text-decoration:none" class="ml-5" onClick="picture_edit('10001','','','编辑','picture-edit.html')" href="javascript:;" title="编辑"><i class="icon-edit"></i></a>
+          <a style="text-decoration:none" class="ml-5" onClick="picture_edit('10001','','','编辑','picture-edit.html')" href="javascript:;" title="查看"><i class="icon-eye-open"></i></a>
+          <a style="text-decoration:none" class="ml-5" href="javascript:;"  onclick="if(!confirm('确定要删除吗？')){return false;}"  title="删除"><i class="icon-trash"></i></a>
+        </td>
+      </tr>
+    <?php } ?>
+    </tbody>
+  </table>
+
+  <div id="pageNav" class="pageNav"></div>
+</div>
+
+
+<!--引入foot-->
+<?php include('./foot.php'); ?>
+
+
+</body>
+</html>

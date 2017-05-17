@@ -1,0 +1,1133 @@
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('二胡','0','有两根弦的是二胡')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('二胡','0','有两根弦的是二胡')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('三胡','0','有三根弦的是三胡')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('四胡','0','有四根弦的是四胡')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('五胡','0','有5根弦的是五胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('六胡','0','有6根弦的是六胡！')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('111','0','222')
+use jxsr3623_haha
+set names utf8
+insert into category (cat_name,parent_id,intro) values ('111','0','222')
+use jxsr3623_haha
+set names utf8
+insert into category (sel_Sub) values ('0')
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('0','小提琴','这是小提琴的简介')
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('0','小提琴','这是小提琴的简介')
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('0','大提琴','这是大提琴的简介')
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('0','','')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('9','小小提琴','这是小小提琴的简介')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 6
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 7
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 10
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('4','小五胡','五胡的子栏目')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 17
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 16
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 16
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 16
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 16
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 6
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 16
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 16
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 5
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 6
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 17
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 4
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 17
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+update category set cat_name='三胡',parent_id='1',intro='有三根弦的是三胡' where cat_id=2
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+update category set cat_name='小二胡',parent_id='2',intro='这是二胡的子栏目' where cat_id=3
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 2
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+update category set cat_name='小二胡',parent_id='1',intro='这是二胡的子栏目' where cat_id=3
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 3
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category where parent_id=2
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('1','小二胡的弟弟','小二胡的弟弟')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category where parent_id=1
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category where parent_id=1
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+insert into category (parent_id,cat_name,intro) values ('0','钢琴','这里是钢琴简介')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'BL2016072384338'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072340957'
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072311523'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072369520'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072360065'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072341099'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072334822'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072322758'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072380403'
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072428727'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072481493'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072435115'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072489302'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072469104'
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072423204'
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072474166'
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072533434'
+insert into goods (goods_name,goods_sn,class_start,class_end,cat_id,shop_price,goods_number,is_sale,is_hot,goods_brief,goods_desc,add_time,ori_img) values ('二胡课','SN2016072533434','1469454368','1469540771','1','32','22','1','1','课程简介课程简介课程简介','<p>详细描述：详细描述：详细描述：详细描述：</p>','1469454389','data/images/201607/25/z7p4ec.jpg')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072551661'
+insert into goods (goods_name,goods_sn,class_start,class_end,cat_id,shop_price,goods_number,is_sale,is_hot,goods_brief,goods_desc,add_time,ori_img) values ('小二胡的课','SN2016072551661','1469543429','1469547036','6','200','20','1','1','小二胡的课程名称课程名称课程名称','<p>小二胡的详细描述详细描述详细描述</p>','1469457086','data/images/201607/25/uadc5s.jpg')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072916918'
+insert into goods (goods_name,goods_sn,class_start,class_end,cat_id,shop_price,goods_number,is_sale,is_hot,goods_brief,goods_desc,add_time,ori_img,goods_img,thumb_img) values ('小二胡的课','SN2016072916918','1469809895','1469896299','6','111','222','1','1','课程简介课程简介课程简介','<p>详细描述详细描述详细描述详细描述</p>','1469723529','data/images/201607/29/jmefhr.jpg','data/images/201607/29/goods_jmefhr.jpg','data/images/201607/29./thumb_jmefhr.jpg')
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016072972246'
+insert into goods (goods_name,goods_sn,class_start,class_end,cat_id,shop_price,goods_number,is_sale,is_hot,goods_brief,goods_desc,add_time,last_update,ori_img,goods_img,thumb_img) values ('小二胡的课','SN2016072972246','1467188255','1469693857','6','111','22','1','1','课程简介课程简介课程简介','<p>详细描述详细描述详细描述详细描述</p>','1469723734','1469723734','data/images/201607/29/aedn95.jpg','data/images/201607/29/goods_aedn95.jpg','data/images/201607/29./thumb_aedn95.jpg')
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from category where cat_id= 1
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+insert into goods (goods_name,goods_sn,class_start,class_end,cat_id,shop_price,goods_number,is_sale,is_hot,goods_brief,goods_desc,add_time,last_update,ori_img,goods_img,thumb_img) values ('11','222','1467188255','1469606863','0','32','22','1','1','课程简介课程简介课程简介','<p>详细描述详细描述详细描述详细描述详细描述</p>','1469749056','1469749056','data/images/201607/29/23inj9.jpg','data/images/201607/29/goods_23inj9.jpg','data/images/201607/29./thumb_23inj9.jpg')
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select count(*) from goods where goods_sn= 'SN2016080436057'
+insert into goods (goods_name,goods_sn,class_start,class_end,cat_id,shop_price,goods_number,is_sale,is_hot,goods_brief,goods_desc,add_time,last_update,ori_img,goods_img,thumb_img) values ('二胡课','SN2016080436057','1470016800','1470020400','3','200','20','1','1','这是二胡课的简介','<p>这是二胡课的详细介绍</p>','1470277010','1470277010','data/images/201608/04/4guej6.jpg','data/images/201608/04/goods_4guej6.jpg','data/images/201608/04./thumb_4guej6.jpg')
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0
+use jxsr3623_haha
+set names utf8
+select cat_id,cat_name,intro,parent_id from category
+use jxsr3623_haha
+set names utf8
+select * from goods where is_delete = 0

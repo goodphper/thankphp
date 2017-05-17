@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+  <!--引入top-->
+  <?php include('./top.php'); ?>
+
+<title>栏目管理</title>
+</head>
+<body>
+<nav class="Hui-breadcrumb"><i class="icon-home"></i> 首页 <span class="c-gray en">&gt;</span> 课程管理 <span class="c-gray en">&gt;</span> 栏目管理 <a class="btn btn-success radius r mr-20" style="line-height:1.6em;margin-top:3px" href="javascript:location.replace(location.href);" title="刷新" ><i class="icon-refresh"></i></a></nav>
+<div class="pd-20 text-c">
+
+  <form class="Huiform" action="./cateaddAct.php" method="post">
+    上级栏目：
+    <select class="select" name="parent_id">
+        <option value="0">顶级栏目</option>
+      <?php foreach($catlist as $v) {?>
+        <option value="<?php echo $v['cat_id'] ?>"><?php echo str_repeat('>>',$v['lev']), $v['cat_name'] ?></option>
+      <?php }?>
+    </select>
+
+    <input class="input-text" name="cat_name" style="width:250px" type="text" value="" placeholder="栏目名称" id="">
+    <input class="input-text" name="intro" style="width:250px" type="text" value="" placeholder="栏目简介" id="">
+
+
+    <button type="submit" class="btn btn-success" id="" name="">
+      <i class="icon-plus"></i> 添加
+    </button>
+  </form>
+
+  <div class="article-class-list cl mt-20">
+
+    <div class="cl pd-5 bg-1 bk-gray mt-20"> <span class="l"><a href="javascript:;" onclick="if(!confirm('确定批量删除吗？')){return false;}"  class="btn btn-danger radius"><i class="icon-trash"></i> 批量删除</a></span> <span class="r">共有数据：<strong>54</strong> 条</span> </div>
+
+
+    <table class="table table-border table-bordered table-hover table-bg">
+      <thead>
+        <tr class="text-c">
+          <th width="25"><input type="checkbox" name="" value=""></th>
+          <th width="80">序号</th>
+          <th>名称</th>
+          <th>描述</th>
+          <th width="70">操作</th>
+        </tr>
+      </thead>
+      <tbody>
+      <?php foreach($catlist as $k=>$v) {?>
+        <tr class="text-c">
+          <td><input type="checkbox" name="" value=""></td>
+          <td><?php echo ++$k ?></td>
+          <td class="text-l"><?php echo str_repeat('>>',$v['lev']), $v['cat_name'] ?></td>
+          <td class="text-l"><?php echo $v['intro'] ?></td>
+          <td class="f-14">
+            <a title="编辑" href="javascript:void(0);" onClick="article_class_edit('1','650','400','分类编辑','./catedit.php?cat_id=<?php echo $v['cat_id']; ?>')" style="text-decoration:none">
+              <i class="icon-edit"></i>
+            </a>
+            <a title="删除" href="./catdel.php?cat_id=<?php echo $v['cat_id']; ?>" onclick="if(!confirm('确定要删除吗？')){return false;}" class="ml-5" style="text-decoration:none">
+              <i class="icon-trash"></i>
+            </a>
+          </td>
+        </tr>
+      <?php }?>
+      </tbody>
+    </table>
+
+<!--    <div class="page">
+      <ul class="pagination">
+        <li><a href="#">&laquo;</a></li>
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&raquo;</a></li>
+      </ul>
+    </div>-->
+    <div id="pageNav" class="pageNav"></div>
+
+
+
+  </div>
+</div>
+
+  <!--引入foot-->
+  <?php include('./foot.php'); ?>
+
+</body>
+</html>
